@@ -1,7 +1,7 @@
 
 # ignore files
 
-**/packge.json
+**/pacakge.json
 
 mobile/
 node_modules/
